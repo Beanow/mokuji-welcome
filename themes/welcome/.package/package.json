@@ -1,0 +1,14 @@
+{
+  "title": "Welcome theme",
+  "description": "A basic Mokuji theme.",
+  "type": "manual",
+  "dbUpdates": true,
+  "versions": [
+    {
+      "version": "0.1.0-beta",
+      "date": "2014-02-11",
+      "description": "First version.",
+      "changes": []
+    }
+  ]
+}
